@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bulae\\source\\repos\\petshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|solutionrelative:petshop\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|solutionrelative:petshop\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|c:\\users\\bulae\\source\\repos\\petshop\\petshop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|solutionrelative:petshop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|solutionrelative:petshop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|solutionrelative:petshop\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{016B2AD3-080E-4686-B2B1-BA6C616F9628}|petshop\\petshop.csproj|solutionrelative:petshop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "petshop\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "petshop\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIA1wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:21:01.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "petshop\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\Classes\\Manager.cs",
+              "RelativeToolTip": "petshop\\Classes\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:48:00.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "petshop\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "petshop\\Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T16:47:28.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\App.xaml",
+              "RelativeDocumentMoniker": "petshop\\App.xaml",
+              "ToolTip": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\App.xaml",
+              "RelativeToolTip": "petshop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T16:37:22.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "petshop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\MainWindow.xaml",
+              "RelativeToolTip": "petshop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T16:00:31.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "petshop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bulae\\source\\repos\\petshop\\petshop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "petshop\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:00:29.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
