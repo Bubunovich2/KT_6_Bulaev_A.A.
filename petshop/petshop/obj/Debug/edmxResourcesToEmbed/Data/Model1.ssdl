@@ -45,7 +45,7 @@
   </EntityType>
   <EntityType Name="OrderProduct">
     <Key>
-      <PropertyRef Name="IdOrder" />
+      <PropertyRef Name="Id" />
     </Key>
     <Property Name="Id" Type="int" Nullable="false" />
     <Property Name="IdOrder" Type="int" Nullable="false" />
@@ -216,7 +216,7 @@
   </Association>
   <Association Name="FK_OrderProduct_Order">
     <End Role="Order" Type="Self.Order" Multiplicity="1" />
-    <End Role="OrderProduct" Type="Self.OrderProduct" Multiplicity="0..1" />
+    <End Role="OrderProduct" Type="Self.OrderProduct" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Order">
         <PropertyRef Name="OrderID" />

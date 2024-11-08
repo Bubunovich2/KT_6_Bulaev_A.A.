@@ -14,6 +14,12 @@ namespace petshop.Data
     
     public partial class Order
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Order()
+        {
+            this.OrderProduct = new HashSet<OrderProduct>();
+        }
+    
         public int OrderID { get; set; }
         public int IdOrderStatus { get; set; }
         public System.DateTime OrderDate { get; set; }
@@ -24,6 +30,7 @@ namespace petshop.Data
     
         public virtual OrderStatus OrderStatus { get; set; }
         public virtual PickPoint PickPoint { get; set; }
-        public virtual OrderProduct OrderProduct { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<OrderProduct> OrderProduct { get; set; }
     }
 }
